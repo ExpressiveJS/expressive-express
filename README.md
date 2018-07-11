@@ -1,5 +1,5 @@
 # expressive-express
-[Express](https://github.com/expressjs/express) protocol plugin for [Expressive](https://github.com/bugs181/Expressive)
+[Expressive](https://github.com/bugs181/Expressive) protocol plugin for [Express](https://github.com/expressjs/express)
 
 <br>
 
