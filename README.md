@@ -1,2 +1,2 @@
 # expressive-express
-Express protocol for Expressive
+Express protocol plugin for Expressive
