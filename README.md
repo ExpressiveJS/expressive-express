@@ -1,9 +1,9 @@
 # expressive-express
-[Expressive](https://github.com/bugs181/Expressive) protocol plugin for [Express](https://github.com/expressjs/express)
+[Expressive.js](https://github.com/bugs181/Expressive.js) protocol plugin for [Express](https://github.com/expressjs/express)
 
 <br>
 
-### Expressive CLI Install: ###
+### Expressive.js CLI Install: ###
 
     npm install expressive-cli -g
     expressive init myProject
@@ -21,7 +21,7 @@
 
 <br>
 
-### Expressive config.js: ###
+### Expressive.js config.js: ###
     {
         protocols: ['express'],
         
