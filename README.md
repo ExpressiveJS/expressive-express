@@ -27,8 +27,14 @@
         
         express: {
           port: 8082,
-          statusInResponse: true,
-          routeNotFound: '404', // Can be a 404.html page. fs.fileSync('404.html')
           static: `${require('path').join(__dirname, '../web/static')}`,
+          
+          // See note on other middlewear options
         }
     }
+
+<br>
+
+### Other middlewear options: ###
+This project uses [expressive-middlewear](https://github.com/bugs181/expressive-middleware). <br>
+Any options allowed by that framework can be used in the config object as well.
